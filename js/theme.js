@@ -18,7 +18,7 @@ const disableDark = () => {
   feather.replace();
 };
 
-//Toggle theme
+
 if (darkTheme === "enabled") {
   enableDark();
 } else {
